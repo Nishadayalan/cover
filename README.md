@@ -131,7 +131,7 @@ Publish the website in the LocalHost.
             A Tutorial Introduction to the Mathematics of Deep Learning...
             </div>
             <div class="mypic">
-                <img src="/static/aibook.png" width="130" height="145" alt="">
+                <img src="/static/AI.png" width="130" height="145" alt="">
             </div>
             <div class="id">
                 <hr style="color: orange;">
@@ -151,7 +151,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (75).png>)
+![Alt text](aibook.png)
 
 
 ## RESULT:
