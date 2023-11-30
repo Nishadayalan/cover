@@ -47,7 +47,7 @@ Publish the website in the LocalHost.
             margin-right: auto;
             padding:20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            background-image: linear-gradient(rgb(0, 213, 255),green), url('./static/bookbg.png');
+            background-image: url('./static/nisha.png');
             background-size: cover;
         }
 
@@ -125,13 +125,13 @@ Publish the website in the LocalHost.
                 <hr style="color: red;">
             </div>
             <div class="booktitle">
-                <h1>SUCCESS</h1>
+                <h1>ARTIFICIAL INTELLIGENCE ENGINES</h1>
             </div>
             <div class="subtitle">
-            The Daily Success Habits That Will Get You Where You Want To Be     
+            A Tutorial Introduction to the Mathematics of Deep Learning...
             </div>
             <div class="mypic">
-                <img src="/static/mypic.png" width="130" height="145" alt="">
+                <img src="/static/ai.png" width="130" height="145" alt="">
             </div>
             <div class="id">
                 <hr style="color: orange;">
