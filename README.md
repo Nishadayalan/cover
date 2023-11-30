@@ -151,7 +151,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (71).png>)
+![Alt text](<ai book.png>)
 
 
 ## RESULT:
