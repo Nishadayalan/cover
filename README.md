@@ -71,11 +71,11 @@ Publish the website in the LocalHost.
             font-size: medium;
         }
         .booktitle{
-            font-family: 'Courier New', Courier, monospace;
-            font-size: larger;
-            text-align: center;
-            position: relative;
-            top: 10px;
+            margin-top: 30px;
+            color:red;
+            padding:5px;
+            font-size: xx-large
+            
         }
 
         .id{
@@ -151,7 +151,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Alt text](<ai book.png>)
+![Alt text](book.png)
 
 
 ## RESULT:
